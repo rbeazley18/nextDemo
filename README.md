@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).# nextDemo
+This is a practice repo for learning the basics of Next.js and React.
